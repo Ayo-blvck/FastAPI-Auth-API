@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+venv/
+.env
+.env.*
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Alembic
+alembic/versions/*.pyc
+
+# Logs
+*.log
+
+# Unit test cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# MyPy & Pylint
+.mypy_cache/
+.pylint.d/
+
+# Docker
+*.db
+*.sqlite3
+__docker__/
+docker-compose.override.yml
