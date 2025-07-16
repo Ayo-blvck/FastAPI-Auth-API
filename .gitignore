@@ -44,3 +44,4 @@ htmlcov/
 *.sqlite3
 __docker__/
 docker-compose.override.yml
+docker-compose.yml
